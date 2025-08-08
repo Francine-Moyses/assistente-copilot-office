@@ -1,3 +1,5 @@
+![Power Platform](https://img.shields.io/badge/Power_Platform-0B556A?style=for-the-badge&logo=microsoft-powerapps)
+
 # 🚀 Assistente Virtual Copilot - Power Platform
 
 Componente PCF para autocompletar e-mails integrado com Power Apps e Dynamics 365.
@@ -52,4 +54,5 @@ npm install
 
 ## 📄 Licença
 Nenhuma licença específica foi aplicada.
+
 
