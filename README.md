@@ -9,3 +9,10 @@ Integração entre Power Platform, Copilot Studio e Microsoft 365.
 - Microsoft Graph API
 
 ## 📂 Estrutura do Projeto
+```
+.
+assistente-copilot-office/
+├── power-apps/          # Componentes UI customizados
+├── azure-functions/    # Lógica de backend
+└── docs/               # Documentação
+```
