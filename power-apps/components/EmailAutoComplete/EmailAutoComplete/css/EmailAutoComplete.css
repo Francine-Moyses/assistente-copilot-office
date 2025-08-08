@@ -1,0 +1,28 @@
+.OfficeAssistant-EmailAutoComplete {
+    position: relative;
+    width: 100%;
+}
+
+.OfficeAssistant-EmailAutoComplete input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+}
+
+.suggestions-container {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    z-index: 99;
+    width: 100%;
+    background: white;
+}
+
+.suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background-color: #e9e9e9;
+}

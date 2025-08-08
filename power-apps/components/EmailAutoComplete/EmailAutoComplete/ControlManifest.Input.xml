@@ -32,10 +32,7 @@
     -->
     <resources>
       <code path="index.ts" order="1"/>
-      <!-- UNCOMMENT TO ADD MORE RESOURCES
-      <css path="css/EmailAutoComplete.css" order="1" />
-      <resx path="strings/EmailAutoComplete.1033.resx" version="1.0.0" />
-      -->
+      <css path="css/EmailAutoComplete.css" order="2"/> <!--<css path="EmailAutoComplete/css/EmailAutoComplete.css" order="2"/>-->
     </resources>
     <!-- UNCOMMENT TO ENABLE THE SPECIFIED API
     <feature-usage>
