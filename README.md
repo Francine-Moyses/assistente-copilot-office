@@ -51,4 +51,5 @@ npm install
 5. Abra um Pull Request
 
 ## 📄 Licença
-[MIT](LICENSE)
+Nenhuma licença específica foi aplicada.
+
